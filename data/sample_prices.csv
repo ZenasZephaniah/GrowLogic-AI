@@ -1,6 +1,6 @@
-district,ph,nitrogen,phosphorus,potassium
-Varanasi,6.5,280,15,200
-Raipur,5.8,320,12,180
-Patna,7.2,250,20,210
-Nagpur,6.0,290,14,190
-Ludhiana,7.0,310,18,220
+mandi,crop,price_inr_per_quintal
+Delhi,Tomato,1400
+Mumbai,Wheat,2100
+Bangalore,Onion,1700
+Lucknow,Rice,2200
+Hyderabad,Cotton,5800
